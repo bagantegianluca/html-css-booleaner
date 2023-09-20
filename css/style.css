@@ -25,6 +25,11 @@ h2,h3{
     color: grey;
 }
 
-light-blue{
-    color: #20A9E5;
+th{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.odd{
+    background-color: #B1E5F2;
 }
